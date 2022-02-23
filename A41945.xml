@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great sin and chief guiltines of Scotland in the contempt of the Gospel as it was branched out in particulars by the Commission of the Generall Assembly in the year 1650 ; now re-printed at the desire of the Synod of Lothian, for the fast appointed by them in the year 1654.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41945</idno>
+            <idno type="STC">Wing G1753</idno>
+            <idno type="STC">ESTC R8653</idno>
+            <idno type="EEBO-CITATION">12818270</idno>
+            <idno type="OCLC">ocm 12818270</idno>
+            <idno type="VID">94180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94180)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 382:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great sin and chief guiltines of Scotland in the contempt of the Gospel as it was branched out in particulars by the Commission of the Generall Assembly in the year 1650 ; now re-printed at the desire of the Synod of Lothian, for the fast appointed by them in the year 1654.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94180:1" rendition="simple:additions"/>
+            <p>THE GREAT SIN, AND CHIEF GUILTINES OF SCOTLAND, <hi>In the contempt of the</hi> GOSPEL.</p>
+            <p>As it was branched out in particulars, by the Commiſſion of the Gene<g ref="char:EOLhyphen"/>rall Aſſembly, in the Year, 1650.</p>
+            <p>Now Re-printed at the deſire of the Synod of <hi>Lothi<g ref="char:EOLhyphen"/>an,</hi> for the Faſt appointed by them in the Year, 1654.</p>
+            <p>Printed, <hi>Anno Dom.</hi> 1654.</p>
+         </div>
+         <div type="recommendation">
+            <pb facs="tcp:94180:2"/>
+            <head>At <hi>Edinburgh,</hi> the seventh Day of <hi>May,</hi> 1654.</head>
+            <p>THe Synod of <hi>Lothian</hi> and <hi>Tweddail,</hi> conſidering the con<g ref="char:EOLhyphen"/>tinuing evidences and effects of Gods wrath, and his Hand ſtill ſtretched out againſt the Land, Do find it their duty, to ſtirre up themſelves, and theſe under their charge, to accept the puniſhment of our iniquities, and to turn to him that ſmites us: And therefore do ſeriouſly recommend to the ſeverall Preſbyteries within their bounds, that, from time to time, as they ſhall have occaſion, they appoint and keep Solemn Faſts for ſtirring up the people to be humbled in the ſenſe of their iniquities, and to repent for the ſame; And ſpecially for the contempt of the Glorious Goſpel of the Son of GOD, and not imploying of Him in His Mediation and Offices, for reconciliation and amendment: Which, as it is the chief cauſe of the LORDS controverſie a<g ref="char:EOLhyphen"/>gainſt us: ſo, unleſſe this be reformed, we cannot expect that our other iniquities ſhall be amended, or that the LORD will turn from the fierceneſſe of his anger againſt us. And albeit this hath been recommended in many former Cauſes of Humiliation, and particularly inſiſted on in a Printed Paper of the Commiſſion, <hi>1650.</hi> Yet their is cauſe to fear, that the people do either little underſtand or lay to heart the hainouſneſſe of this ſin: And therefore the Synod ſeriouſly recommends, that Miniſters be the more carefull in their Doctrine to lay it out before them. Ex<g ref="char:EOLhyphen"/>tracted.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:94180:2"/>
+            <head>SINS Relating to the <hi>GOSPEL-ORDINANCES.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt: To the Word. Neglecting to come and attend on the Preaching of the Word, both on the LORDS Day, and on week dayes, in theſe places where ſuch exerciſes are on theſe dayes.</p>
+            <p n="2">2. Not coming to the Preaching of the Word, for the right end, <hi>viz.</hi> to find communion with Chriſt, and a taſte of his goodneſſe and excellency, and to be built up in the moſt holy faith: but either out of cu<g ref="char:EOLhyphen"/>ſtome, or to eſchew cenſures, or to ſatisfie and hold off the challenges of a naturall conſcience, or ſome by-re<g ref="char:EOLhyphen"/>ſpect; And not preparing the heart before hand in ſe<g ref="char:EOLhyphen"/>cret, to come with Godly fear and reverence, humility, ſpirituall hungring and thirſting after the Kingdom of God and the righteouſneſſe thereof, and deſiring as new born babes the ſincere milk of the Word, to grow thereby.</p>
+            <p n="3">3. That when the people are at the Preaching of the
+<pb n="4" facs="tcp:94180:3"/>Word, beſides great careleſneſſe, overlineſſe, ſleeping, wandring of the heart, and in advertency to what is Preached; the Word is not heard as an Ordinance and mean appointed of God to work upon, and carry in grace and comfort unto the heart, but is only regarded as other diſcourſes proceeding from mens ability and parts, and is accordingly eſteemed by the moſt part, or at moſt is only made uſe of, as a mean of informing the judgement.</p>
+            <p n="4">4. That in the Preaching of the Word, neither do Miniſters ſpeak the ſame as the Oracles of God, not re<g ref="char:EOLhyphen"/>membring themſelves to be the ambaſſadours of Chriſt, ſpeaking in Gods ſtead: nor do the people preſent themſelves in ſo immediat a way before God himſelf, as to receive the Word not as the word of man, but as the true Word of God; Whence it cometh to paſſe that there is litle trembling at the Word, and ſo litle rejoi<g ref="char:EOLhyphen"/>cing in it.</p>
+            <p n="5">5. That people in the hearing of the Word, content themſelves with mans teaching, and do not, in the con<g ref="char:EOLhyphen"/>viction of their own blindneſſe, and utter inability of themſelves to perceive the things of the Spirit, and of the inſufficiency of the outward means without Gods immediat work therewith upon the heart, imploy him<g ref="char:EOLhyphen"/>ſelf to teach them inwardly by his Spirit, joining with the outward means, according to the promiſe of the Covenant, <hi>They ſhall be all taught of God.</hi> Whence it cometh to paſſe that there is ſo much Preaching, and ſo little profiting, ſo much learning, and ſo little ſpeed coming in the knowledge of God.</p>
+            <p n="6">
+               <pb n="5" facs="tcp:94180:3"/>
+6. The not mixing of the Word Preached with faith, while as in the hearing thereof, even theſe who ſeem to give moſt heed thereunto do for the moſt part, rather imploy the judgement, to conſider and judge of the pertinency, coherence, the way of uttering of the Do<g ref="char:EOLhyphen"/>ctrine delivered; or in a meer ſpeculative way to appre<g ref="char:EOLhyphen"/>hend the matter and truth of what is ſpoken, than they do labour with the heart to cloſe with, imbrace and ap<g ref="char:EOLhyphen"/>ply to themſelves the truth Preached.</p>
+            <p n="7">7. No care to lay up, and hide the Words of Chriſt in the heart, to remember the ſame for uſe making: But letting them ſlip and run thorow; which the Apoſtle accounteth a neglecting of the great Salvation of God, (<hi>Heb.</hi> 2.1.3.) Nor imploying the Spirit to bring the Word that hath been heard, but forgotten, to remem<g ref="char:EOLhyphen"/>brance: Not making conſcience to confer on the Word Preached, and to whet it one upon another. Not ta<g ref="char:EOLhyphen"/>king pains, nor delighting in it in privat, to read, and meditate on it.</p>
+            <p n="2">2. IN relation to the Sacraments. And firſt in ge<g ref="char:EOLhyphen"/>nerall and common: Not making uſe of them as Seals of the Covenant of Grace, and promiſes there<g ref="char:EOLhyphen"/>of made to us in Chriſt; but laying all the weight of confidence upon themſelves, and being content with the deed done, which was the ordinary ſin of the Jews in the uſe of Circumciſion, and other Rites and Cere<g ref="char:EOLhyphen"/>monies of the Law, ſo often charged upon them in Scri<g ref="char:EOLhyphen"/>pture. Then particularly,</p>
+            <p>In Baptiſm. I. In Parents bringing their Children thereunto, either out of meer faſhion and cuſtom, as meerly to have a difference put between them and un<g ref="char:EOLhyphen"/>chriſtned
+<pb n="6" facs="tcp:94180:4"/>people, or in effect as unto a meer Ceremony: and not from any ſenſe that they are unclean from un<g ref="char:EOLhyphen"/>clean, born dead in ſins, and children of wrath of them<g ref="char:EOLhyphen"/>ſelves, defiled with Originall guilt and corruption; nor from a deſire that they may be ſpiritually regenerated, incorporated unto Chriſt, to be made partakers of the vertue of His Death and Reſurrection, to be waſhed from their filthineſſe in the blood of Chriſt, and to get intereſt in the Covenant of Grace, and promiſes thereof, ſealed up unto them. 2. Not ſetting them<g ref="char:EOLhyphen"/>ſelves in the Adminiſtration of this Sacrament to con<g ref="char:EOLhyphen"/>ſider and prize the free love and grace of God, which hath prevented us, and our ſeed, in providing ſuch a fountain for ſin and uncleanneſſe in Chriſt, making ſuch a Covenant with us, ſo well ordered in all things, and ſure, preventing us and our ſeed with the Seal thereof; nor to apply the Covenant and the promiſes thereof for our ſelves and our ſeed, and this Sacrament as the Seal of the ſame. 3. The great and evident ſlighting of the Adminiſtration of the Sacrament, while as few in the Congregation joineth therein either for their own edi<g ref="char:EOLhyphen"/>fication, or to hold up the baptized to God, that he might bleſſe his own Ordinance to them, and receive them in amongſt his Children in Chriſt: And many withdraw themſelves from the Adminiſtration there<g ref="char:EOLhyphen"/>of, as if it did not concern them, and only the Miniſter and Preſenter were to be actors in it. 4. Parents not making conſcience, to make known unto their Children, when they come to years of Capacity, their Baptiſm, the ends and uſe thereof, and the obligation thereby lyeth upon them as conſecrated to Chriſt. 5. The not making uſe of this Sacrament all along the courſe
+<pb n="7" facs="tcp:94180:4"/>of our life, for renewing and ſtrengthning our comfort in the faith and aſſurance of our Regeneration and Ado<g ref="char:EOLhyphen"/>ption; and of our intereſt in God, as our God and Father in Chriſt, and for ſtrengthening through Chriſt our reſolutions and endeavours of Mortification, and newneſſe of life: Which is a great deſpiſing of this Ordinance.</p>
+            <p>In the Lords Supper; 1. The great prophanation thereof, by the coming and admitting thereunto, of many groſſe ignorants, who cannot diſcern the Lords Body, nor knoweth how to examine themſelves: ma<g ref="char:EOLhyphen"/>ny prophane Ones, godleſſe Livers, without the Worſhip of God in private, and into many places, all ſorts of perſons promiſcuouſly, without making a difference between the precious and the vile, whereby the Blood of Chriſt is much prophaned (altho the conſtitutions of our Kirk, were they well obſerved, doth ſufficiently guard againſt theſe evils) which no doubt is one of the main ſins, for which God hath been provoked to ſuffer ſo much of our blood to be ſhed: See 1 <hi>Cor.</hi> 11.30.</p>
+            <p n="2">2. The little or no care or pains that is taken for pre<g ref="char:EOLhyphen"/>paration to ſo high and holy an Ordinance, wherein we are called to the neareſt and moſt familiar Communion with Chriſt that is here upon earth: moſt part con<g ref="char:EOLhyphen"/>tenting themſelves giving their preſence at a Preparation Sermon, many not making conſcience of ſo much as this. Very few ſeparating themſelves as is needfull, to Examine themſelves; that, being ſenſible of their guiltineſſe, ſpirituall inlacks, <hi>&amp;c.</hi> they might come
+<pb n="8" facs="tcp:94180:5"/>with humble, broken, and contrite ſpirits, with ſpirituall hunger and thirſt for Chriſt Crucified: And ſincere purpoſes of heart to forſake their former ſinfull courſes, and to renew their Covenant with God, in the ſtrength of Chriſts Grace.</p>
+            <p n="3">3. The great and lamentable blockiſhneſſe of the moſt part, in the participation of this Ordinance, who, may be, have ſome kind of amazement at the Solemni<g ref="char:EOLhyphen"/>ties thereof, but do no wayes therein exerciſe them<g ref="char:EOLhyphen"/>ſelves in remembring the Lords Death till he come again; to apply the ſame to themſelves, for peace with God, and mortifying the body of ſin, for working deep Repentance, and Goſpel-ſorrow for ſin, and get<g ref="char:EOLhyphen"/>ting the Love of Chriſt more kindled in them, and their hearts inlarged with greater thankfulneſſe toward him, who loved us, and gave himſelf for us. And on the other hand, the great heartleſſe ſinfull dejection or many ſenſible ſouls, who at no time are readier to be plunged in legall heavineſſe, and feeding as it were on Gall and Worm-wood, then at this Ordinance, wherein they ought to be moſt rejoicing through faith on the propitiation in the Death of Chriſt, ſo familiarly ſet forth therein to them.</p>
+            <p n="4">4. That the time and occaſion of this Sacrament, is uſed by the moſt part, only for ſome outward reſtraint of groſſer ſins, for a day or two before and after; but all ſuch goodneſſe being as a morning Cloud, no con<g ref="char:EOLhyphen"/>ſtancy nor reall Reformation, but preſently turning to wonted, naturall, worldly , and carnall courſes; Notwithſtanding renewed remembring of the Death
+<pb n="9" facs="tcp:94180:5"/>of Chriſt, and Profeſſion of renewing Covenants with God.</p>
+            <p n="3">3. IN relation to the Ordinance of Diſcipline.</p>
+            <p n="1">1. Much partiality in the adminiſtration there<g ref="char:EOLhyphen"/>of, with reſpect of perſons, and according to affection; which appeareth in that, While as Offences and Scan<g ref="char:EOLhyphen"/>dals in meaner perſons are taken notice of, challenged and cenſued: There is not the like Chriſtian Freedom, faithfulneſſe and zeal uſed toward ſuch as are more emi<g ref="char:EOLhyphen"/>nent for wealth, place or dignity in the world.</p>
+            <p n="2">2. Want of a Spirit of Meekneſſe, ſometimes in the adminiſtration thereof; whereby men, if GOD per<g ref="char:EOLhyphen"/>adventure would give them Repentance, might be re<g ref="char:EOLhyphen"/>covered out of the ſnares of Satan. And, on the other hand, want of zeal often times, to ſave others with fear, plucking them out of the fire.</p>
+            <p n="3">3. Much vilifying, contemning of the Cenſures and Exerciſe of Diſcipline; yea, hating, thereof, and the Officers of the Kirk for it.</p>
+            <p n="4">4. Not making uſe of it as a ſpirituall Medicine and Means of Salvation: but as a meer Puniſhment, which as it is in it ſelf a miſ-apprehenſion and abuſe of this Or<g ref="char:EOLhyphen"/>dinance ſo is (no doubt) the cauſe of ſo much impa<g ref="char:EOLhyphen"/>tience and indignation againſt it in people, and of ſo much inequality and mixture of ſelfiſh affection in the adminiſtration thereof.</p>
+            <p n="5">5. The great formality that is every where in the uſe
+<pb n="10" facs="tcp:94180:6"/>thereof, while as, ſo be it that perſons under cenſure continue out their ſet time and dayes of Cenſure, little care or reſpect is had of the effects for which it was inſti<g ref="char:EOLhyphen"/>tuted, to wit, humiliation of heart and godly ſorrow, bringing forth Repentance not to be repented of, which maketh the adminiſtration thereof to look too like the way of Popiſh Pennance.</p>
+            <p n="4">4. IN relation to Prayer: 1. Great neglect thereof by moſt part of perſons and Families throughout. the Land in private and ſecret.</p>
+            <p n="2">2. Many, more eminent perſons in the world, accoun<g ref="char:EOLhyphen"/>ting the performance thereof in their Families (although this be incumbent to them by their place and ſtation) a diſparagement; and therefore turning it over upon o<g ref="char:EOLhyphen"/>thers, as a Service below them.</p>
+            <p n="3">3. In the publick Prayers of the Kirk, Peoples ly<g ref="char:EOLhyphen"/>ing by from joyning therein all along with their Spi<g ref="char:EOLhyphen"/>rits, which ſhould be ſtriving together with the Mini<g ref="char:EOLhyphen"/>ſter: either muttering words of their own, or taking li<g ref="char:EOLhyphen"/>berty to themſelves to be idle in the Work, and roaving in their thoughts, as if the Miniſter only were to be an Actor in that Service.</p>
+            <p n="4">4. Not uſing this Ordinance as a mean of commu<g ref="char:EOLhyphen"/>nion with God, and of obtaining bleſſings from Him: But uſing it meerly as a duty, and many as a matter of meer task. Whereof many may be convinced by this, That they do not make conſcience, nor ſet themſelves to obſerve what commeth of their Prayers. how they
+<pb n="11" facs="tcp:94180:6"/>are taken of their hand, what ſpeed they have come, and what anſwer they get.</p>
+            <p n="5">5. The little care that is had either by Miniſters or others to pray in the Spirit, or to imploy the Spirit of Grace and Supplication for this Service: The moſt part in their performances thereof too evidently acting meerly their own memory, invention, wit, &amp;c. and that often times with apparent affectation.</p>
+            <p n="5">5. RElating more immediately to Chriſt Himſelf and the free grace of God in him, which is the Matter and Object of the Goſpel: As,</p>
+            <p n="1">1. Groſſe ignorance in the moſt part, and great ſhort<g ref="char:EOLhyphen"/>coming of the beſt in the knowledge of Jeſus Chriſt His Perſon, Offices, His bleſſings and benefites, of the Covenant of Grace eſtabliſhed in Him, and the way of making uſe of Chriſt and the Covenant of Grace.</p>
+            <p n="2">2. Undervaluing and miſpryſing of Chriſt, commu<g ref="char:EOLhyphen"/>nion with Him, and His ſpirituall graces and bleſſings; Which appears moſt evidently, by the great neglect of the uſe of theſe means and exerciſes, publick, private and ſecret, wherein He offereth Himſelf to be ſought and found: the great wearying of them, greater willing<g ref="char:EOLhyphen"/>neſſe and readineſs to beſtow time and pains upon things. worldly, even vanity and trifles, than on theſe: prefer<g ref="char:EOLhyphen"/>ring the intereſts of creatures to the intereſts of Chriſt, and not giving him the preheminence above all: by the readineſſe which appears in people, in times of try all, to comply with ſinfull courſes, to the prejudice of Chriſts
+<pb n="12" facs="tcp:94180:7"/>Cauſe, and the hazarding of their own peace with God, for maintaining their eaſe, temporary ſafety and worldly commodities, rather then to deny themſelves, take up their croſſe and follow Him.</p>
+            <p n="3">3. Not receiving of Chriſt; nor making uſe of him as he is held forth in the Goſpel, in his fulneſſe of grace, nor living by faith in him, more eſpecially in not recei<g ref="char:EOLhyphen"/>ving and making uſe of his free-Grace and imputed Righteouſneſſe for Juſtification, acceptation before God, and for peace of conſcience: while as moſt part ſecurely reſt on meer outward Church-priviledges: ma<g ref="char:EOLhyphen"/>ny confide in their own Morall Honeſty performances and duties; So going about to eſtabliſh their own righ<g ref="char:EOLhyphen"/>teouſneſſe, and following duties this way to make their Peace and Reconciliation thereby with God. And e<g ref="char:EOLhyphen"/>ven the beſt Profeſſours do not ſo purely and intirely reſt on his Righteouſneſſe as the Goſpel requireth: as well appear by theſe things amongſt many others: heartleſſe fears, misbelief, fearring to apply Chriſt, and to make uſe of the promiſes, not rejoicing in Chriſt and his propitiation with humility, when there is a diſ<g ref="char:EOLhyphen"/>covery, challenges and apprehensions of want, ſhort co<g ref="char:EOLhyphen"/>ming and failing of duties, which in effect is in a degree, and in part, an eſtabliſhing our own righteouſneſſe, and not ſubmitting to the Righteouſneſſe of God. Not making uſe of Chriſt, for Sanctification, according to the promiſes of the Covenant, and not acting in a way of dependence on him, in all the performances of our common Chriſtian calling, and of particular lawfull vo<g ref="char:EOLhyphen"/>cations, for direction, quickening, ſtrength to morti<g ref="char:EOLhyphen"/>fie corruptions, to every duty, and to carry us through
+<pb n="13" facs="tcp:94180:7"/>againſt diſcouragements, and tentations: but acting only, or moſt part by the ſtrength of our own wits, abili<g ref="char:EOLhyphen"/>ties, and pains.</p>
+            <p>In not making uſe of the Mediation and Interceſſion of Chriſt, in approaching to the Throne of Grace, in Prayers, Supplications, and Thankſgivings (while as many do neglect Prayer altogether) albeit they have ſome courſe of performance of this duty, yet know not what it is to put their Prayers up to God through the Mediator, though they may perhaps name His Name, but do as that <hi>Uzziah,</hi> who would offer In<g ref="char:EOLhyphen"/>cenſe himſelf, neglecting the High Prieſt: And even Beleevers themſelves doth not directly, diſtinctly, and ſtedfaſtly in their approaches to God, eye Chriſt, to offer all their ſervice through him; nor do come with that humble boldneſſe and full aſſurance of faith in God as a Father, wherewith the interceſſion of Chriſt war<g ref="char:EOLhyphen"/>randeth them to come, <hi>Heb.</hi> 10.19, 20, 21, 22.</p>
+            <p n="4">4. Not walking as becometh the Goſpel of Chriſt, in Righteouſneſſe, Godlineſſe, and Sobriety: many not<g ref="char:EOLhyphen"/>withſtanding their Profeſſion of the Goſpel, and clai<g ref="char:EOLhyphen"/>ming intereſt in Chriſt and his Grace, yet living looſe, prophane, godleſſe, carnall and earthly in their way; in effect, turning the Grace of God unto wantonneſſe and ſecurity, and taking liberty to ſin, becauſe Grace doth abound. And even the beſt not ſo conſtrained with the love of Chriſt, to live to him who died for them, nor ſtriving to keep the thoughts of the love of Chriſt, and the free-Grace of God in him, upon their hearts, ſo freſh and conſtant, as they ſhould be, to keep them watchfull, tender, zealous, and enlarged for God, and his honour.</p>
+            <p n="6">
+               <pb n="14" facs="tcp:94180:8"/>
+6. IN relation to the operations of the Spirit, where<g ref="char:EOLhyphen"/>in the Goſpel is the Miniſtration, and maketh it effetuall: As,</p>
+            <p n="1">1. Prophane mocking, miſcalling, and miſ-inter<g ref="char:EOLhyphen"/>preting the tender and accurate walking of the Godly in the wayes of God, as unneceſſary and proud preciſe<g ref="char:EOLhyphen"/>neſſe, and their ſpirituall exerciſes, as fantaſtickneſſe, melancholy, or madneſſe: Which is a horrible ſin, ſib to that which is unpardonable; yet, very frequent a<g ref="char:EOLhyphen"/>mongſt carnall and naturall people.</p>
+            <p n="2">2. The meer naturall and morall way of living in a civill honeſty, and ſitting down contented therewith, of the moſt part of people, not labouring in their con<g ref="char:EOLhyphen"/>verſation to walk after the Spirit, <hi>i. e.</hi> upon Spiritual Principles, according to the Spirituall Rule (of Gods revealed Will in his Word) nor for Spirituall ends, the Honour of God, Glory, and Immortality.</p>
+            <p n="3">3. Not obſerving and yeelding unto the knockings of the Spirit, whereby Chriſt maketh tender to come in to hearts, that he may ſup with them, and they with him; reſiſting and quenching his motions, whereby he ſtirreth up to duties, ſtiffling or putting by his chal<g ref="char:EOLhyphen"/>lenges, whether in publick or ſecret, which tend to Repentance, Humiliation, or withdrawing from ſin; not being tender of his Preſence and conſolations, to in<g ref="char:EOLhyphen"/>tertain the ſame; but grieving him, by miſprizing them, refuſing them, careleſſe walking, in not atten<g ref="char:EOLhyphen"/>ding on his direction and guiding, in giving way to known ſinfull thoughts, and luſtings in a continued tract, altho not growing up to a full accompliſhing of them; and ſometimes in giving way even to groſſer out-breakings, and in not watching againſt predo<g ref="char:EOLhyphen"/>minant
+<pb n="15" facs="tcp:94180:8"/>corruptions, whereof even the beſt are much guilty.</p>
+            <p n="4">4. Not delighting in, nor improving ſpirituall compa<g ref="char:EOLhyphen"/>ny and ſpirituall exerciſes.</p>
+            <p n="5">5. OF Miniſters, in relation to their Preaching of the Goſpel: As,</p>
+            <p n="1">1. Many not labouring to ſet forth the Excellency of Chriſt, in his Perſon, Offices, and the unſearchable Riches of his Grace, the New Covenant, and the way of living by Faith in him: nor making this the main and chief Theme and matter of their Preaching, as did the Apoſtle, 1 <hi>Cor.</hi> 3.2. 2 <hi>Cor.</hi> 4.5. <hi>Col.</hi> 1.28. Nor Preaching other things with a relation to Chriſt; to wit, Not Preaching convictions, reproofs, diſcove<g ref="char:EOLhyphen"/>ries of ſin, and of ſhort comings in duties, and threat<g ref="char:EOLhyphen"/>nings, to lead to Chriſt, to prize him the more high<g ref="char:EOLhyphen"/>ly, and to embrace him the more earneſtly; eſpecially for Juſtification, and preſſing duties in a meer legall way; not urging them, as by the Authority of Gods Commandements<g ref="char:punc">▪</g> ſo from the love of Chriſt, and the grace of the Goſpel, nor pointing and directing people to their furniture for them in Chriſt: Often<g ref="char:EOLhyphen"/>times craving hard, but giving nothing wherewith to pay.</p>
+            <p n="2">2. What they Preach of Chriſt, and the matters of the Goſpel, not Preaching the ſame in a Goſpel-way: Whereof ſee, 1 <hi>Cor.</hi> 3. from the beginning, at length.</p>
+            <p n="3">3. Not commending, as they ought, neither their own work, whether of meditation, or delivery: nor their hearts to Chriſt, that He might give the increaſe:
+<pb n="16" facs="tcp:94180:9"/>but going about the work, either altogether in their own ſtrength, or much that way.</p>
+            <p n="4">4. Often times not ſpeaking, becauſe they beleeve and many not ſeeking for communion with Chriſt, in their own perſonall eſtate: and to feel the power of the Word upon their own hearts, that they might ſpeak ſo.</p>
+            <p>Theſe branches of contemning and abuſing of the Go<g ref="char:EOLhyphen"/>ſpel, are thought fit, for the better information of all, to be held forth at this time, as being moſt obvious, recommending withall to Miniſters, to apply them<g ref="char:EOLhyphen"/>ſelves to make a more, full and particular diſcovery thereof; As is not doubted but they will do, accor<g ref="char:EOLhyphen"/>ding to their wiſedom and underſtanding in the Goſpel, and the experience they have by obſervation of their own hearts, and of the wayes and conſciences of People.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
